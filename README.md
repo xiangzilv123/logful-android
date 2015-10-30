@@ -1,11 +1,5 @@
-adfsadsfasdfas
-# logful-androfadsfasdfid
-adfasdfasf
+# logful-android
 logful logging sdk for android
 
-asfdas
-
-
-17:06
-
+## 2015年11月推出
 
